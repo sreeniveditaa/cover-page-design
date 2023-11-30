@@ -147,7 +147,7 @@ Publish the website in the localhost.
 ```
 
 ## Output:
-![Alt text](<book cover output-1.png>)
+![book cover output](https://github.com/sreeniveditaa/cover-page-design/assets/147473268/774780b2-bb97-4464-93cb-968f2c1bd0e8)
 
 ## Result:
 The program for designing book front cover page using HTML and CSS is completed successfully.
